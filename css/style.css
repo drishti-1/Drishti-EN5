@@ -1564,6 +1564,8 @@ display:inline;
 font-size:17px !important; line-height:26px !important; font-weight: 400;
 }
 
+.impact-item{height: auto; margin-bottom:20px;}
+
 }
 
 
@@ -1627,7 +1629,7 @@ font-size:17px !important; line-height:26px !important; font-weight: 400;
     box-shadow: 0 0 20px #ccc;
     margin-bottom: 30px;
 }
-
+.gallery-pic video{ width:100%;}
 
 .partner-section {
   	padding: 100px 0;
